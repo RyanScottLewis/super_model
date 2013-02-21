@@ -1,7 +1,7 @@
 require 'bundler/setup'
 require 'super_model'
 
-# class User < SuperModel::Base
+# class User < SuperModel
 #   
 # end
 
