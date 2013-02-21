@@ -20,14 +20,14 @@ spec = Gem::Specification.new do |s|
   s.description = ''
   
   # Dependencies
-  s.add_dependency 'version', '~> 1.0'
-  s.add_development_dependency 'activesupport', '~> 3.2'
-  s.add_development_dependency 'guard-rspec', '~> 2.1'
-  s.add_development_dependency 'guard-yard', '~> 2.0'
-  s.add_development_dependency 'rb-fsevent', '~> 0.9'
-  s.add_development_dependency 'fuubar', '~> 1.1'
-  s.add_development_dependency 'redcarpet', '~> 2.2'
-  s.add_development_dependency 'github-markup', '~> 0.7'
+  s.add_dependency 'version', '~> 1.0.0'
+  s.add_dependency 'active_support', '~> 3.0.0'
+  s.add_development_dependency 'guard-rspec', '~> 2.4.1'
+  s.add_development_dependency 'guard-yard', '~> 2.0.1'
+  s.add_development_dependency 'rb-fsevent', '~> 0.9.3'
+  s.add_development_dependency 'fuubar', '~> 1.1.0'
+  s.add_development_dependency 'redcarpet', '~> 2.2.2'
+  s.add_development_dependency 'github-markup', '~> 0.7.5'
   
   # Pragmatically set variables
   s.homepage = "http://github.com/RyanScottLewis/#{s.name}"

@@ -3,7 +3,7 @@ require 'super_model/validator'
 class SuperModel
   module Validations
     
-    class Presence < Validator
+    class DateTime < Validator
       
     end
     

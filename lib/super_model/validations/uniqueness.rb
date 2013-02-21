@@ -1,9 +1,9 @@
-require 'super_model/validations/base'
+require 'super_model/validator'
 
-module SuperModel
+class SuperModel
   module Validations
     
-    class Uniqueness < Base
+    class Uniqueness < Validator
       
     end
     
