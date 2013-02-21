@@ -1,8 +1,8 @@
 # SuperModel
 
 * [Gem](https://rubygems.org/gems/super_model)
-* [Source](https://github.com/RyanScottLewis/at)
-* [Documentation](http://rubydoc.info/gems/service/frames)
+* [Source](https://github.com/RyanScottLewis/super_model)
+* [Documentation](http://rubydoc.info/gems/super_model/frames)
 
 A fully functional alternative to `ActiveModel`.
 
