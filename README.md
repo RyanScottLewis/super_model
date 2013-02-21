@@ -4,15 +4,17 @@
 * [Source](https://github.com/RyanScottLewis/at)
 * [Documentation](http://rubydoc.info/gems/service/frames)
 
-A fully functional alternative to `ActiveModel`
+A fully functional alternative to `ActiveModel`.
 
 ## Install
 
 ### Bundler: `gem 'super_model'`
 
-### RubyGems: `gem install super_mode`
+### RubyGems: `gem install super_model`
 
 ## Usage
+
+TODO
 
 ## Contributing
 
